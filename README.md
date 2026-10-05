@@ -1,5 +1,7 @@
 Name: Rohit Kumar Gupta 
+
 Student ID: BC2025469
+
 Subject: Data Structures and Algorithms
 
 Q1. Stack Using Array
